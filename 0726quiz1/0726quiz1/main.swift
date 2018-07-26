@@ -4,3 +4,5 @@ for i in 1..<10 {
     print("\(n) X \(i) = \(n * i)");
 }
 print();
+
+
